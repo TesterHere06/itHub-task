@@ -1,2 +1,6 @@
 Hello, world!
+<<<<<<< HEAD
 Hello from master!
+=======
+Hello from new_branch!
+>>>>>>> new_branch
